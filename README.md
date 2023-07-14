@@ -61,7 +61,7 @@
   <summary> <span style="font-size:200%">나의성향</span> </summary>
 	<div markdown="1">
 <br>
-<span style="font-size:150%">완벽하지는 않지만 게임에서 나온 나의 성향 결과!</span>
+<span style="font-size:150%"><span style="background-color:black"><span style="color:white">완벽하지는 않지만 게임에서 나온 나의 성향 결과!</span>
 
 ![이미지](ALTER_EGO.jpg)
 
@@ -71,9 +71,11 @@
 
 <span style="font-size:200%">나의 상태~!</span>
 
-<span style="font-size:200%">- 🔭 지금 직장은 어디냐?! : 취업 하고 싶어요...😭</span>
+<span style="font-size:200%">- 🔭 지금 직장은 어디냐?! :<span style="color:skyblue"> 취업 하고 싶어요...😭</span>
+
 <br>
-<span style="font-size:200%">- 🌱 좋아하는 게임 캐릭터 : 일레븐 </span>
+
+<span style="font-size:200%">- 🌱 좋아하는 게임 캐릭터 : <span style="color:pink">일레븐 </span>
 
 ![이미지](일레븐쭈왑.png)
 
