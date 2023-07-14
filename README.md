@@ -41,7 +41,10 @@
 <br>
 
 <span style="font-size:200%">MBTI: <a>**INFP**</A> **(E 아님!)**</span>
+
+![이미지](infp.webp)
 <details markdown="1">
+
   <summary>
 <span style="font-size:200%">최근 감명깊게 받은 말</span> </summary>
 	<div markdown="1">
@@ -70,7 +73,9 @@
 
 <span style="font-size:200%">- 🔭 지금 직장은 어디냐?! : 취업 하고 싶어요...😭</span>
 <br>
-<span style="font-size:200%">- 🌱</span>
+<span style="font-size:200%">- 🌱 좋아하는 게임 캐릭터 : 일레븐 </span>
+
+![이미지](일레븐쭈왑.png)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
