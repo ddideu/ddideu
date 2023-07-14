@@ -1,15 +1,11 @@
-# <span style="font-size:300%">띠드의 프로필에 어서오세요~! 👋 </span>
-
-
-<span style="font-size:250%"> **띠드** 만의 특별한 저장공간~!!띠드를 잘 표현 할게요~! </span>
-
-<span style="font-size:200%">- 이름: 정종욱</span> 
+# 정종욱(띠드)의 자기소개
+<span style="font-size:200%">이름: 정종욱</span> 
 
 <details markdown="1">
-  <summary> <span style="font-size:200%">얼굴 😀(보고싶은 사람만 볼것!) </span> </summary>
+  <summary> <span style="font-size:200%">얼굴</span> </summary>
 	<div markdown="1"> 
 <Br>
-<span style="font-size:150%"> 제주도 오설록 티 뮤지엄에서 찍은 사진 </span> </summary>
+<span style="font-size:150%"> 제주도 오설록 티 뮤지엄에서 </span> </summary>
 
 ![이미지](JONGUK.jpg)
 
@@ -17,7 +13,7 @@
 
 <br>
 
-<span style="font-size:200%">나이 :25(만) , 27(한국)</span> 
+<span style="font-size:200%">나이 : 25(만) , 27(한국)</span> 
 
 <span style="font-size:200%">성별 : 남자</span> 
 
@@ -32,8 +28,6 @@
 ![이미지](talesrunner.png)
 
 <span style="font-size:150%"> [이터널 리턴](https://playeternalreturn.com/main?hl=ko-KR) </span>
-
-
 ![이미지](이터널리턴.webp)
 
 </details>
@@ -63,18 +57,4 @@
 ![이미지](ALTER_EGO.jpg)
 
   
-</details> 
-
-
-<span style="font-size:200%">나의 상태~!</span>
-
-<span style="font-size:200%">- 🔭 지금 직장은 어디냐?! : 취업 하고 싶어요...😭</span>
-<br>
-<span style="font-size:200%">- 🌱</span>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+</details>
