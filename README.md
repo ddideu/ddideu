@@ -1,11 +1,12 @@
-### Hi there 👋
+# 띠드의 프로필에 어서오세요~! 👋
 
-<!--
-**ddideu/ddideu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!--
+**띠드** 만의 특별한 저장공간~!!띠드를 잘 표현 할게요~!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+나의 상태~!:
+
+- 🔭 지금 직장은 어디냐?! : 취업 하고 싶어요...😭
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
