@@ -1,7 +1,7 @@
-# <span style="font-size:300%">띠드의 프로필에 어서오세요~! 👋 </span>
+# <span style="font-size:300%"> 띠드의 프로필에 어서오세요~! 👋 </span>
 
 
-<span style="font-size:250%"> **띠드** 만의 특별한 저장공간~!!띠드를 잘 표현 할게요~! </span>
+<span style="font-size:200%"> **띠드** 만의 특별한 저장공간~!!띠드를 잘 표현 할게요~! </span>
 
 <span style="font-size:200%">- 이름: 정종욱</span> 
 
