@@ -1,9 +1,12 @@
 while True:
-    N = list(map(int,input())
-    if N == 0:
+    N = str(input())
+    R_N = " "
+    if N == '0':
         break
     else :
         for i in N:
-            R_N = N[i] + R_N
-        print(R_N)
-
+            R_N = i + R_N
+    if int(R_N) == int(N):
+        print('yes')
+    else :
+        print('no')
