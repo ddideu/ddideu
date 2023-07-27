@@ -1,0 +1,8 @@
+n = int(input())
+A = list(map(int,input().split()))
+A_1 = str(A)
+print(A_1)
+m = int(input())
+B = list(map(int,input().split()))
+B_1 = str(*B)
+print(B_1)
