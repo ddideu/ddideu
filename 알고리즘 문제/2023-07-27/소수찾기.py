@@ -7,7 +7,11 @@ numbers = 0
 for B_in in B:
     corret = 0
     for nums in range(2,1001):
-        if nums >= B_in :  
+        if nums >= B_in :
+            if B_in == 1 :
+                corret = 0
+            else:
+                corret = 1  
             break 
         else :
             if B_in/nums - B_in//nums > 0:
