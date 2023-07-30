@@ -17,7 +17,7 @@ while True:
             if action == '#' and num == '0':
                 if life_count == 0 : #체중의 상태가 변하더라도 답을 찾아 냈다. 아싸.
                     break
-                if Adequate_weight/2 < real_weight < Adequate_weight*2 :
+                elif Adequate_weight/2 < real_weight < Adequate_weight*2 :
                     res.append(':-)')
                     break
                 else:
