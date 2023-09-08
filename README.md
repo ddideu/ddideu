@@ -79,6 +79,9 @@
 
 ![이미지](일레븐쭈왑.png)
 
+<span style="font-size:150%"> [개인 포트폴리오](file:///C:/Users/SSAFY/Desktop/start/ddideu/my_page.html)</span>
+
+
 ------ 2023-07-18 (추가사항) ----
 
 지금 당장은 힘들거야. 하지만 괜찮아 나는 끝까지 완주할수 있으니까.
