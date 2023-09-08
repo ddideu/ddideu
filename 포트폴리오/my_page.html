@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Google Font 적용 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap" rel="stylesheet">
+  <!-- bootstrap 적용 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" 
+  rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" 
+  crossorigin="anonymous">
+  <link rel="stylesheet" href="./my_style.css">
+  <title>나의 웹 사이트</title>
+</head>
+<body>
+  <!-- 메뉴 -->
+  <nav class="navbar navbar-expand-lg bg-body-tertiary navbar-sticky">
+    <div class="container-fluid ms-3">
+      <a class="navbar-brand" href="#">ddideu</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+      data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="#Frontpage">Frontpage</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#intro">Intro</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#my_contact">contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#skills">skills</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#project">project</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"> 
+            <a class="nav-link nav-link_right" href="https://github.com/ddideu">
+              <img class="navbar_image" src="images/일레븐쭈왑.png">ddideu.git</a>
+      </div>
+    </div>
+  </nav>
+  <!-- 메인 콘텐츠 -->
+  <main id= "Frontpage" class="Frontpage">Frontpage
+    <frontpage_section class="row">
+      <about_me_section class="item col-12 col-md-8"> 
+        ▶ 간단한 자기 소개
+        <about_me class="row">
+          <p>신입 개발자가 되어가고 있는중인 뉴비 개발자 정종욱 입니다.</p>
+          <p>나이는 현재 25살 입니다.</p>
+          <p>제가 되고싶은 개발자는 2가지 입니다. 하나는 게임 개발자가 되는것입니다.</p>
+          <p>초등 학생때 부터 무언가를 만드는 것을 좋아했습니다. 친구들과 같이 게임을</p>
+          <p>같이 만들어서 놀기도 했습니다.</p>
+          <p>다른 하나는 금융(증권, 카드, 은행)쪽에서 일하면서 지내고 싶습니다.</p>
+          <p>아버지의 조언으로 대학생때부터 경제에 대해 관심을 가지고 있으며</p>
+          <p>지금까지도 아버지가 보내주시는 경제 관련 뉴스는 빠짐없이 보면서 경제상황에 대해</p>
+          <p>한발 먼저 알려고 노력하는 중입니다. </p>
+        </about_me>
+      </about_me_section>
+      <my_preference_section class="item col-12 col-md-4">
+        ▶ 개인 취향
+        <about_me class="row">
+          <p>취미 : 게임, 음악듣기</p>
+          <p>현재 좋아하는 게임 입니다.</p>
+          <a href="https://playeternalreturn.com/main?hl=ko-KR">
+            <img class="game item col-12" src="images/Season1.0_PC_1920 x 1080.png"></a>
+          <p>왜?</p>
+          <p>해당 게임은 지금 제 2호황기를 누리고 있지만 이전에는</p>
+          <p>서버종료를 예상 하고 있었습니다.</p>
+          <p>하지만 극단적인 리빌딩을 통해 해당 게임을 다시 이전의 영광을 되찾았습니다.</p>
+        </about_me>
+        <div class="row">
+
+        </div>
+      </my_preference_section>
+    </frontpage_section>
+  </main>
+  <my_intro class="row">
+  <!-- 자기소개 -->
+    <section id="intro" class="intro item col-12 col-sm-9">Intro
+      <graduation_section class="row">
+        <graduation class="col-12 col-md-6">
+          <p>학력</p>
+          <div class="row">
+          <p>- 2016.02 신목고등학교 졸업</p>
+          <p>- 2017.02 한밭대학교 기계공학과 입학</p>
+          <p>- 2023.07 SAFFY 입과.</p>
+          <p>- 2023.08 한밭대학교 기계공학과 졸업</p>
+          </div>
+        </graduation>
+        <award class="col-12 col-md-6">
+          <p>수상내역</p>
+          <p>- 2022.11 한밭대학교 캡스톤디자인 경진대회 최우수상</p>
+        </award>
+      </graduation_section>
+    </section>
+  <!-- 연락처 -->
+    <section id="my_contact" class="my_contact item col-12 col-sm-3 ">contact
+      <contact_section class="row">
+        <my_phone class="col-12">
+          <p>tel.010-7123-0561</p>
+        </my_phone>
+        <my_email class="col-12">
+          <p>email.cnhug3@naver.com</p>
+        </my_email>
+        <my_address class="col-12">
+          <p>어은동 한빛아파트</p>
+          <p>더 자세한건 전화로 부탁드립니다.</p>
+        </my_address>
+      </contact_section>
+    </section>
+  </my_intro>
+  <section class="row">
+  <!-- 기술 스택 -->
+    <section id="skills" class="skills item col-12 col-md-6">Skills
+      <section class="row">
+      <my_skills class="col-6">
+        <my_tools class="row"><p>다룰수 있는것</p>
+          <img class="image item col-6" src="images/python.png" 
+          alt="python">
+          <img class="image_2 item col-6" src="images/HTML(1).png"
+          alt="HTML">
+          <img class="image_2 item col-6" src="images/CSS(1).png"
+          alt="CSS">
+          <img class="image_2 item col-6" src="images/bootstrap.png"
+          alt="bootstrap">
+        </my_tools>
+      </my_skills>
+      <my_skills class="col-6">
+        <my_tools class="row"><p>관심 기술</p>
+          <img class="image item col-6" src="images/JAVA.png" alt="JAVA">
+          <img class="image item col-6" src="images/C++.png" alt="Cplusplus">
+        </my_tools>
+      </my_skills>
+    </section>
+
+    </section>  
+  <!-- 프로젝트 -->
+    <section id="project" class="project item col-12 col-md-6">Project
+      <my_projects class="row">
+        <p>아직 싸피에서 공부중입니다. 진행중인 프로젝트가 있기는 하지만 싸피 규정상 밝힐수 없습니다.</p>
+      </my_projects>
+    </section>
+  </section>
+  <!-- 꼬리말 -->
+  <footer class="footer">made.by 정종욱(ddideu) thanks for chat_gpt</footer>
+  <!-- 반응형 웹? -->
+  <!-- bootstrap grid system -->
+  <!-- 470px 밑으로는 웹 제공 X -->
+  <h1 class="not-provided">해당 사이트는 470px 사이즈 미만에서는 보이지 않습니다.</h1>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+  <!-- 시작을 어떻게? -> 설계부터 시작 하고 하자! 무작정 하지 말고! -->
+</body>
+</html>
